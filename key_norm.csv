@@ -184,7 +184,7 @@ _id,singkat,hasil
 183,call,telepon
 184,can,dapat
 185,cape,capek
-"186,""car"
+186,"car
 ",mobil
 187,career,karir
 188,caution,perhatian
@@ -1690,8 +1690,7 @@ _id,singkat,hasil
 1688,mangung,manggung
 1689,mangungnya,manggungnya
 1690,maning,lagi
-1691,manis2,manis-"
-anis
+1691,manis2,manis-manis
 1692,manjain,manjakan
 1693,mantab,mantap
 1694,mantabh,mantap
@@ -2703,7 +2702,7 @@ anis
 2700,others,lainnya
 2701,otmatis,otomatis
 2702,otw,lagi di jalan
-"2703,""p\baikan"""""",perbaikan"
+2703,"p\baikan""",perbaikan
 2704,pa2,apa-apa
 2705,pabrkan,pabrikan
 2706,pacal,pacar
@@ -3721,5 +3720,5 @@ anis
 3718,ywdhlh,ya sudahlah
 3719,ywis,ya sudah
 3720,rp,rupiah
-3721,nya,
-3722,ny,
+3720,nya, 
+3721,ny, 
